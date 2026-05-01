@@ -1,0 +1,1 @@
+#order_item modeli order.py ga kochirildi
